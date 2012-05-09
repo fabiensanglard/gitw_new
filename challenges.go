@@ -26,7 +26,7 @@ var challenges [...] string{
 /*challenges[10]*/ `ow gw ty kc qb eb nm ht ud pc iy ty ik tu zo dp gl qt hd`, 
 /*challenges[11]*/ `idniidhsubrseognteiuignuhrzdalrd ietfetinmeablnigorcsnuatoieclei`,
 /*challenges[12]*/ `qclgjq'qcrjcrlmqnyrcpgursmzyddmbcnngrgmfupceylyk`,
-/*challenges[13]= `c2VuaWxzJ2RhZHltbm9zcGF0ZXJpd2VodHRjZW5ub2NlcmRuYXNlbGVnbmFzb2xvdHlsZm90ZGFob2h3dG5lZ2F5dGlydWNlc2xsZWJjYXBlaHQ=`,
+/*challenges[13]*/ `c2VuaWxzJ2RhZHltbm9zcGF0ZXJpd2VodHRjZW5ub2NlcmRuYXNlbGVnbmFzb2xvdHlsZm90ZGFob2h3dG5lZ2F5dGlydWNlc2xsZWJjYXBlaHQ=`,
 //Base 64 decode:
 //senils'dadymnospateriwehttcennocerdnaselegnasolotylfotdahohwtnegaytirucesllebcapeht
 // Reverse the string
