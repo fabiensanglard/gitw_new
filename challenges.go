@@ -51,7 +51,7 @@ var challenges [...] string{
 /*challenges[28]*/ `70776d61766374666f2770636d6167797a786977786f78656a7974696465737073786f65696f64706a6f766b636165686573677069637a617886172`,
 /*challenges[29]*/ `eyiyibemhemijixvpyiocjkxdwwxdazvtkaazrvl`,
 /*challenges[30]*/ `usygbjmqeauidgttlcflcflgqmfqhyhwurqmbxzoqmnpmjhlneqsctmglahp`,
-/*challenges[31]*/ `tpdwxjw'viyegmzbecfvpcqtuwdinpfhzvvfadzbkfoevcnseozxffdlvrdo'jwsjkzllzwapfrvhuaqz
+/*challenges[31]*/ `tpdwxjw'viyegmzbecfvpcqtuwdinpfhzvvfadzbkfoevcnseozxffdlvrdo'jwsjkzllzwapfrvhuaqz`,
 /*challenges[32]*/ `010 1 0001 101 0 111 000 100001 01 101 001 00 111 00 00 1111 000 01 111 1 10 000 0000 1001 000 11 0000 0 111 0 0 0101 010 110 111 111 0 1111 1 101 111 1101 110 01 00 010 111 000 0100 111 01 100 00`,
 /*challenges[33]*/ `eafeihchqqlndcinrarnfhqdvmlqnmcrlphaccqmqefkzhlslnstmqgmma`,
 /*challenges[34]*/ `ifdmnbbnqitnsobmmmtthdkhqbqzpo"nduqz"zhnemccxhyaninaxanf`,
